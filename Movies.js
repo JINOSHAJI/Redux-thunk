@@ -6,7 +6,6 @@ import * as counterActions from './src/store/actions/index';
 
 class Movies extends React.Component{
     state={count:0,
-      
       title:'',
       releaseYear:'',
     };
